@@ -1,0 +1,6 @@
+framework module TD_QRCode {
+  umbrella header "TD-QRCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,19 @@
+PODS:
+  - GPUImage (0.1.7)
+  - TD-QRCode (0.1.0):
+    - GPUImage
+
+DEPENDENCIES:
+  - TD-QRCode (from `../`)
+
+EXTERNAL SOURCES:
+  TD-QRCode:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  TD-QRCode: 99d060222f8e945e153ad75fc8c71ef1bf2620c7
+
+PODFILE CHECKSUM: b8b396e9e8b42015581514ce2b3e2ccd649a3e9f
+
+COCOAPODS: 1.0.1

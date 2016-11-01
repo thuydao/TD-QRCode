@@ -1,0 +1,33 @@
+{
+  "name": "TD-QRCode",
+  "version": "0.1.0",
+  "summary": "A short description of TD-QRCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/TD-QRCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Anonymous": "daoduythuy@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/thuydao/TD-QRCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TD-QRCode/Classes/**/*",
+  "resource_bundles": {
+    "TD-QRCode": [
+      "TD-QRCode/Assets/*.png",
+      "TD-QRCode/Assets/*.xib"
+    ]
+  },
+  "dependencies": {
+    "GPUImage": [
+
+    ]
+  }
+}
