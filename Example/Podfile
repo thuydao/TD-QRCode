@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TD-QRCode_Example' do
+  pod 'TD-QRCode', :path => '../'
+
+  target 'TD-QRCode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
